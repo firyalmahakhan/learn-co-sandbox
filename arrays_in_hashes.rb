@@ -1,6 +1,8 @@
-closet = {
-"tops" => ["rain jacket", "cardigan", "blazer"],
-"bottoms" => ["jeans", "skirt", "capris"],
-"footwear" => ["sneakers", "heels", "flats"]
+Order = {
+"appetizers" => ["soup", "salad", "olive garden" "fruit platter"],
+"main course" => ["steak", "chicken", "lasagna", "spaghetti"],
+"dessert" => ["Cake", "Brownie", "Ice Cream" "Donut"]
 }
-puts closet["tops"] << "tank top"
+def Order
+  puts "What #{appetizer} did you order?" 
+puts Order ["tops"] << 
