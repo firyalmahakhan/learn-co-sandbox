@@ -1,4 +1,4 @@
-def ice_cream 
+def flavor 
   puts "What is your favorite type of ice cream?"
   ice cream = gets.chomp.downcase 
   
