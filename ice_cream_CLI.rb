@@ -12,7 +12,7 @@ def flavor
   puts "You're cooler than mint!"
   else 
   puts "Hmm, I don't know that flavor!"
-  
+  end
 end 
 
   
