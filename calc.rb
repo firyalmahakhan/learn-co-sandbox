@@ -6,7 +6,7 @@ def tip_calculator
   total = gets.chomp
   
   total = gets.chomp
-  total = (tip % 100) + 1 
+  total = (tip / 100) + 1 
   tip_percentage * total = total_with_tip
   puts "Your total is #{total_with_tip}"
   
