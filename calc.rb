@@ -5,6 +5,7 @@ Order = {
 }
 def Order
   puts "What #{appetizer} did you order?" 
+  total = 5
 
 
 
