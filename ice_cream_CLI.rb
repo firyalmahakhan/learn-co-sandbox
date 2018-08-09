@@ -4,14 +4,14 @@ def flavor
   
   if ice_cream == "coffee" 
     puts "Don't eat too close to bed time!"
-    elsif ice_cream == "birthday cake"
+  elsif ice_cream == "birthday cake"
     puts "Happy Birthday to you!"
-    elsif ice_cream == "cookie dough"
+  elsif ice_cream == "cookie dough"
     puts "Yum I love cookie dough too!"
-    elsif "Mint Chocolate Chip"
-  puts "You're cooler than mint!"
+  elsif "Mint Chocolate Chip"
+    puts "You're cooler than mint!"
   else 
-  puts "Hmm, I don't know that flavor!"
+    puts "Hmm, I don't know that flavor!"
   end
 end 
 flavor
