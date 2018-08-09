@@ -10,7 +10,7 @@ def ice_cream
     puts "Yum I love cookie dough too!"
     elsif "Mint Chocolate Chip"
   puts "You're cooler than mint!"
-else 
+  else 
   puts "Hmm, I don't know that flavor!"
   
 end 
