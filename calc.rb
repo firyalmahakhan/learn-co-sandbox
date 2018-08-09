@@ -1,6 +1,6 @@
-Order = {
-"appetizers" => ["soup", "salad", "olive garden" "fruit platter"],
-"main course" => ["steak", "chicken", "lasagna", "spaghetti"],
+appetizer = { 
+"soup" => 5, "salad" => 8, "olive garden" => 3, "fruit platter" => 5],
+"main_course" => ["steak", "chicken", "lasagna", "spaghetti"],
 "dessert" => ["Cake", "Brownie", "Ice Cream" "Donut"]
 }
 def Order
