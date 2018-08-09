@@ -9,6 +9,6 @@ def tip_calculator
   total = (tip / 100) + 1 
   tip_percentage * total = total_with_tip
   puts "Your total is #{total_with_tip}"
-  
+  end
 end
  tip_calculator
