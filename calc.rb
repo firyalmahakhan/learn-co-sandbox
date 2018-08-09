@@ -13,13 +13,13 @@ def Order
 
 
 def tip_calculator 
-  puts "What percent would you like to tip?"
-  tip = gets.chomp.to_f
+  puts "What percent would you like to tip?" #define the method and ask for % of tip
+  tip = gets.chomp.to_f #because there was decimals
   
   puts "What  is your total?" 
   total = gets.chomp.to_f
   
-  total = (tip / 100) + 1
+  total = (tip / 100) + 1 #to calc total tip
   tip * total = total_with_tip
   puts "Your total is #{total_with_tip}"
   
