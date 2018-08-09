@@ -14,5 +14,5 @@ def flavor
   puts "Hmm, I don't know that flavor!"
   end
 end 
-flavo
+flavor
   
